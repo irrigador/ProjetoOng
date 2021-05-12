@@ -1,18 +1,18 @@
-## Projeto be-the-hero
+# Projeto be-the-hero
 
 You can use the [editor on GitHub](https://github.com/irrigador/ProjetoOng/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-**##Back End**
+## Back End
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
          
-**##Front End**
+## Front End
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-**##Mobile**
+## Mobile
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
