@@ -1,30 +1,33 @@
-# Projeto be-the-hero
+# Projeto Be-The-Hero
 
-You can use the [editor on GitHub](https://github.com/irrigador/ProjetoOng/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O projeto Be The Hero se apresenta como um sistema fulltack desenvolvido com as principais stacks do mercado, sua aplicação é composta por uma tela de login, cadastro, dasbhoard e cadastrar novos casos utilizando conceitos UI/UX o sistema é integrado ao banco de dados relacional apresentando validação dos dados preenchidos e conceitos de tolerância a falhas. A versão mobile tem Api sincronizada com whatsapp e e-mail para interação com o usuário.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Back-End
 
-## Back End
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes  for
+Sua interface de construção é feita em node.Js apresentando os principais metódos para uma aplicação robusta (GET, POST, DELETE e PUT), utilizando as principais bibliotecas para comunicação com banco de dados e de rotas de navegação.
 
 ### Banco de dados MysQl
 
-informações sobre o banco de dados
+Utilizando linguagem Mysql e banco de dados sqlite (relacional) para tratamento dos dados manipulados.
 
 ### Módulo de segurança CORS (tolerante a falhas)
 
-informações sobre o módulo
-         
-## Front End
+Importação do módulo de segurança CORS, evitando que a aplicação seja acessada por outras aplicações ou usuários maliciosos 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Front-End
+
+As páginas web foram construídas utilizando conceitos de HTML, CSS e React.js. Importando as principais bibliotecas para comunicação com o back-end seguindo os principais conceitos de interface com usuário e experiência do usuário mantendo um designt interativo e de fácil utilização para qualquer nível de usuário   
 
 ## Mobile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aplicação mobile construída com conceitos reactNative com comunicação com o banco de dados e api's do whatsapp e email, programada utilizando conceitos ***UI/UX***
 
 
+### TDD (Test-Driven-Development)
+
+Aplicação com validação dos dados e utilizado metodo de teste ***jest*** aprovado nos testes unitarios (testes isolados da aplicação) e de integração (teste o fluxo das rotas inteiras do sistema).
+
+### Imagens da aplicação
 
 ```markdown
 Syntax highlighted code block
@@ -43,13 +46,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### TDD (Test-Driven-Development)
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irrigador/ProjetoOng/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Imagens da aplicação
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
