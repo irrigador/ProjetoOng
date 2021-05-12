@@ -7,12 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **##Back End**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-          **Banco de dados Mysql**
-               Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-          **#Sistema tolerante a falhas modúlo CORS**
-               Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
+         
 **##Front End**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
